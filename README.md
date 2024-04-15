@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lArch1t3ct
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the fundamentals
+- 💞️ I’m looking to increase my web vocabulary by engaging myself with projects on CSS & JavaScript
+- ⚡ Fun fact: An ex-penetration tester who is diving into the web development world
