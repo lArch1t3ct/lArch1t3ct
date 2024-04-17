@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lArch1t3ct
+- 👋 Hi, I’m Stavros
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the fundamentals
 - 💞️ I’m looking to increase my web vocabulary by engaging myself with projects on CSS & JavaScript
