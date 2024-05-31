@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Stavros
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the fundamentals
-- 💞️ I’m looking to increase my web vocabulary by engaging myself with projects on CSS & JavaScript
-- ⚡ Fun fact: An ex-penetration tester who is diving into the web development world
+<p align="center">
+  <img src="https://github.com/lArch1t3ct/lArch1t3ct/raw/main/resources/banner.gif" alt="Hi, I'm Stavros 👋 An Ex-Securtiy Analyst 🕵🏻‍♂️, An Ex-Penetration Tester 🥷🏼, Switching to Software Development 👨🏻‍💻">
+</p>
