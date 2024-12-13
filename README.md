@@ -24,6 +24,7 @@
 - 💼 I'm currently working on: **💻 Learning Front-End Development **
 - 🌱 I'm currently learning: **📚 React.JS**
 - ⚡ Fun fact: **🎢 An ex-hacker and cybersecurity analyst who transitioned to software engineering**
+- 🗒️ My Blog: [Stavros's Blog](https://larch1t3ct.github.io/my-blog/)
 
  **<h3 align="left">Skills</h3>**
 
